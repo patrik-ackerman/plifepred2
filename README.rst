@@ -199,13 +199,13 @@ General usage:
 
 .. code-block:: bash
 
-   python design.py -i input.fasta -o design_output.tsv
+   python plifepred2_design.py -i input.fasta -o design_output.tsv
 
 For modified peptides:
 
 .. code-block:: bash
 
-   python design.py -i input.fasta -f 1 -o design_output.tsv
+   python plifepred2_design.py -i input.fasta -f 1 -o design_output.tsv
 
 
 Design Output Format
