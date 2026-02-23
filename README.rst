@@ -51,7 +51,7 @@ Option 1 — Conda Environment (Recommended)
    conda env create -f environment.yml
    git clone https://github.com/raghavagps/plifepred2.git
    cd plifepred2
-   wget https://github.com/patrik-ackerman/plifepred2/releases/download/v1.0/pfeature_comp
+   wget https://github.com/patrik-ackerman/plifepred2/releases/download/v.0.1/pfeature_comp
    chmod +x pfeature_comp
 
 
@@ -69,7 +69,7 @@ Clone repository:
 
    git clone https://github.com/raghavagps/plifepred2.git
    cd plifepred2
-   wget https://github.com/patrik-ackerman/plifepred2/releases/download/v1.0/pfeature_comp
+   wget https://github.com/patrik-ackerman/plifepred2/releases/download/v.0.1/pfeature_comp
    chmod +x pfeature_comp
 
 
