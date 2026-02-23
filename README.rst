@@ -49,8 +49,13 @@ Option 1 — Conda Environment (Recommended)
 .. code-block:: bash
 
    conda env create -f environment.yml
+   git clone https://github.com/raghavagps/plifepred2.git
+   cd plifepred2
+   wget https://github.com/patrik-ackerman/plifepred2/releases/download/v1.0/pfeature_comp
+   chmod +x pfeature_comp
 
-Conda environment from scratch:
+
+Option 2 — Conda environment from scratch:
 
 .. code-block:: bash
 
@@ -64,6 +69,8 @@ Clone repository:
 
    git clone https://github.com/raghavagps/plifepred2.git
    cd plifepred2
+   wget https://github.com/patrik-ackerman/plifepred2/releases/download/v1.0/pfeature_comp
+   chmod +x pfeature_comp
 
 
 Usage Overview
